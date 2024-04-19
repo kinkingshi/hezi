@@ -14,7 +14,7 @@
       "key": "玩偶",
       "name": "玩偶哥哥┃4K弹幕",
       "type": 3,
-      "api": "https://github.com/kinkingshi/hezi/tree/main/123/lib/wogg.js",
+      "api": "https://raw.githubusercontent.com/kinkingshi/hezi/main/123/lib/wogg.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
