@@ -35,28 +35,28 @@
       "name": "豆瓣[js]",
       "type": 3,
       "api": "https://github.com/kinkingshi/hezi/tree/main/xiangyaqing/lib/drpy2.min.js",
-      "ext": "./lib/drpy.js"
+      "ext": "https://github.com/kinkingshi/hezi/tree/main/xiangyaqing/lib/drpy.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "奇珍异兽[js]",
       "type": 3,
       "api": "https://github.com/kinkingshi/hezi/tree/main/xiangyaqing/lib/drpy2.min.js",
-      "ext": "./lib/奇珍异兽.js"
+      "ext": "https://github.com/kinkingshi/hezi/tree/main/xiangyaqing/lib/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "优酷[js]",
       "type": 3,
       "api": "https://github.com/kinkingshi/hezi/tree/main/xiangyaqing/lib/drpy2.min.js",
-      "ext": "./lib/优酷.js"
+      "ext": "https://github.com/kinkingshi/hezi/tree/main/xiangyaqing/lib/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "腾云驾雾[js]",
       "type": 3,
       "api": "https://github.com/kinkingshi/hezi/tree/main/xiangyaqing/lib/drpy2.min.js",
-      "ext": "./lib/腾云驾雾.js"
+      "ext": "https://github.com/kinkingshi/hezi/tree/main/xiangyaqing/lib/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
