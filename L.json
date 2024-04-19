@@ -1,8 +1,8 @@
 {
   "urls": [
     {
-      "url": "clan://localhost/tvbox/xiangyaqing/xiangyaqing.json",
-      "name": "🚀多多┃香雅情线路"
+      "url": "https://raw.githubusercontent.com/kinkingshi/hezi/main/xiangyaqing/xiangyaqing.json",
+      "name": "测试线路"
     }
   ]
 }
