@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "🌕公众号【神秘的哥哥们】",
+      "name": "豆瓣 | 荐片",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -13,15 +13,15 @@
     },
     {
       "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
+      "name": "玩偶哥哥┃4K弹幕",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "tvfan/token.txt",
-        "quarkCookie": "tvfan/cookie.txt",
+        "aliToken": "https://github.com/kinkingshi/hezi/tree/main/token.txt",
+        "quarkCookie": "https://github.com/kinkingshi/hezi/tree/main/cookie.txt",
         "from": "4k|auto|fhd",
         "siteUrl": "https://api.wogg.xyz/",
         "danMu": "弹"
@@ -29,7 +29,7 @@
     },
     {
       "key": "YGP",
-      "name": "🚀叨观荐影┃新片",
+      "name": "叨观荐影┃新片",
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0,
@@ -38,10 +38,10 @@
     },
     {
       "key": "短剧",
-      "name": "🌈上头┃短剧",
+      "name": "上头┃短剧",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/上头短剧.js",
+      "api": "https://github.com/kinkingshi/hezi/tree/main/123/lib/drpy2.min.js",
+      "ext": "https://github.com/kinkingshi/hezi/tree/main/123/lib/上头短剧.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
