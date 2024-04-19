@@ -14,7 +14,7 @@
       "name": "FMM_IPV6",
       "type": "0",
       "pass": true,
-      "url": "./lib/ipv6.m3u",
+      "url": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/ipv6.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
@@ -34,36 +34,36 @@
       "key": "drpy_js_豆瓣",
       "name": "豆瓣[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/drpy.js"
+      "api": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/drpy.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "奇珍异兽[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/奇珍异兽.js"
+      "api": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "优酷[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷.js"
+      "api": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "腾云驾雾[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾云驾雾.js"
+      "api": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "百忙无果[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/百忙无果.js"
+      "api": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/百忙无果.js"
     },
     {
       "key": "csp_Zhaozy",
@@ -113,7 +113,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/影搜.json"
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/影搜.json"
     },
     {
       "key": "csp_XYQHikerAL_玩偶哥哥",
@@ -123,7 +123,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/玩偶哥哥.json"
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/玩偶哥哥.json"
     },
     {
       "key": "csp_XYQHikerAL_玩偶妹妹",
@@ -133,7 +133,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/玩偶妹妹.json"
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/玩偶妹妹.json"
     },
     {
       "key": "csp_XYQHikerAL_云盘资源",
@@ -143,7 +143,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/云盘资源.json"
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/云盘资源.json"
     },
     {
       "key": "push_agent",
@@ -295,7 +295,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/Bili.json"
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/Bili.json"
     },
     {
       "key": "csp_XYQHiker_兔小贝",
@@ -305,7 +305,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/兔小贝.json"
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/兔小贝.json"
     },
     {
       "key": "csp_XYQHiker_兔小贝2",
@@ -315,7 +315,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/兔小贝2.json"
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/兔小贝2.json"
     },
     {
       "key": "csp_XYQHiker_播视童趣",
@@ -325,7 +325,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/播视童趣.json"
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/播视童趣.json"
     },
     {
       "key": "csp_Bili幼儿",
@@ -335,7 +335,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/幼儿乐园.json"
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/幼儿乐园.json"
     },
     {
       "key": "csp_Bili少儿",
@@ -345,7 +345,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/少儿教育.json"
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/少儿教育.json"
     },
     {
       "key": "csp_Bili小学",
@@ -355,7 +355,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/小学课堂.json"
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/小学课堂.json"
     },
     {
       "key": "csp_Bili初中",
@@ -365,7 +365,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/初中课堂.json"
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/初中课堂.json"
     },
     {
       "key": "csp_Bili高中",
@@ -375,17 +375,17 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/高中课堂.json"
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/高中课堂.json"
     },
     {
       "key": "JS哔哩直播",
       "name": "哔哩直播[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/哔哩直播.js"
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/哔哩直播.js"
     },
     {
       "key": "csp_Bili短剧",
@@ -395,7 +395,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/Bili短剧.json"
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/Bili短剧.json"
     },
     {
       "key": "csp_短剧网",
@@ -414,7 +414,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/996影视.json"
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/996影视.json"
     },
     {
       "key": "csp_XYQBiu_88看球",
@@ -424,7 +424,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/88看球.json"
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/88看球.json"
     },
     {
       "key": "csp_Yj1211",
@@ -440,8 +440,8 @@
       "key": "DRJS_虎牙",
       "name": "虎牙直播(JS)",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/虎牙直播.js",
+      "api": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/虎牙直播.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -454,7 +454,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/虎牙直播.json"
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/虎牙直播.json"
     },
     {
       "key": "csp_XYQHiker_斗鱼直播",
@@ -464,7 +464,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/斗鱼直播.json"
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/斗鱼直播.json"
     },
     {
       "key": "csp_XYQBiu_网易CC直播",
@@ -474,7 +474,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/网易CC直播.json"
+      "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/网易CC直播.json"
     }
   ],
   "parses": [
