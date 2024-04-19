@@ -2,23 +2,7 @@
   "wallpaper": "https://picsum.photos/1280/720/?blur=2",
   "spider": "./custom_spider.jar;md5;0578e48b03db152d0f0bbb03704d4ab5",
   "lives": [
-    {
-      "name": "本地live文件",
-      "type": "0",
-      "pass": true,
-      "url": "http://127.0.0.1:9978/file/XYQTVBox/live.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "FMM_IPV6",
-      "type": "0",
-      "pass": true,
-      "url": "./lib/ipv6.m3u",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
+
   "sites": [
     {
       "key": "csp_LocalFile",
@@ -123,7 +107,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/kinkingshi/hezi/tree/main/xiangyaqing/lib/玩偶哥哥.json"
+      "ext":         "aliToken": "tvfan/token.txt",
+        "quarkCookie": "tvfan/cookie.txt",
+        "from": "4k|auto|fhd",
+        "siteUrl": "https://api.wogg.xyz/",
+        "danMu": "弹"
     },
     {
       "key": "csp_XYQHikerAL_玩偶妹妹",
