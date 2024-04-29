@@ -657,7 +657,7 @@
     },
      {"key": "7","name": "-----分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
      {"key": "8","name": "-----分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-      "key": "drpy_js_短剧网",
+     { "key": "drpy_js_短剧网",
       "name": "影视 | 短剧网[js]",
       "type": 3,
       "api": "./lib2/drpy2.min.js",
