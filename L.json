@@ -1,8 +1,33 @@
 {
   "urls": [ 
     {
-      "url": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/ys.json",
+      "url": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/yxrj.json",
       "name": "测试线路"
+    },
+      {
+      "url": "http://itvbox.cc/云星日记",
+      "name": "云星日记"
+    },
+      {
+      "url": "https://m.n13.club/",
+      "name": "放牛路线"
+      },
+      {
+      "url": "http://饭太硬.top/tv",
+      "name": "饭佬"
+    },
+      {
+      "url": "http://肥猫.live",
+      "name": "肥猫宝贝"
+    },
+      {
+      "url": "http://152.32.170.60/leevi/PiG/raw/branch/master/jsm.json",
+      "name": "PG线路"
+    },
+      {
+      "url": "https://jihulab.com/okcaptain/kko/-/raw/main/tv.txt",
+      "name": "OK线路"
     }
   ]
 }
+
