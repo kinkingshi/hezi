@@ -903,24 +903,6 @@
       "filterable": 1,
       "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/api/哔哩体育.json",
       "jar": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/api/bili.jar"
-    },
-    {
-      "key": "说明",
-      "name": "公众号：云星日记",
-      "type": 3,
-      "api": "360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "说明2",
-      "name": "提供免费维护",
-      "type": 3,
-      "api": "360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     }
   ],
   
