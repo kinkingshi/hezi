@@ -11,8 +11,6 @@
       "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/js/drpy.js"
     },
     
-        //    {"key": "csp_Ikanbot","name": "👾爱看机器人","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://v.ikanbot.com","jar":"https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/xiangyaqing.jar"},
-    
     {     "key": "csp_Panda_玩偶哥哥","name": "🤠玩偶哥哥","api": "csp_Wogg","type": 3,"searchable": 1,"playerType": 2,"timeout": 30,"changeable": 0,"ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/txt/token.txt"},
 
         {    "key": "drpy_js_优酷","name": "优酷","type": 3,"api": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/api/drpy2.min.js","ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/js/优酷.js"
@@ -34,15 +32,7 @@
       "api": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/api/drpy2.min.js",
       "ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/js/百忙无果.js"
     },
-    
-    //{"key": "drpy_js_豆瓣","name": "🍀豆瓣","type": 3,"api": "csp_Douban","searchable": 0},
-       
-      //   {"key": "csp_IQIYI","name": "🥝奇异果","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.githubusercontent.com/kinkingshi/hezi/main/box/api/aiemang.jar"},
-    
-    //{"key": "teng","name": "🐧腾讯视频","type": 3,"jar":"https://raw.githubusercontent.com/kinkingshi/hezi/main/box/api/aiemang.jar","api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-//{"key": "MGT","name": "🍋芒果TV","type": 3,"jar":"https://raw.githubusercontent.com/kinkingshi/hezi/main/box/api/aiemang.jar","api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1},
-//备用！
     {
       "key": "土豆网盘",
       "name": "🥔土豆",
@@ -190,12 +180,6 @@
  
 {"key":"drpy_js_虎牙直播","name":"直播 | 虎牙","type":3,"api":"https://raw.githubusercontent.com/kinkingshi/hezi/main/box/api/drpy2.min.js","ext":"https://raw.githubusercontent.com/kinkingshi/hezi/main/box/js/虎牙直播.js"},
 
-           //{"key": "csp_SP360","name": "360┃官源","type": 3,"api": "csp_SP360" },
-    
-       //{"key": "荐片","name": "荐片┃影视","api": "csp_Jianpian","type": 3,"playerType": "2","ext": "http://api2.rinhome.com"},
-    
-    //{"key": "爱看影视","name": "爱看┃影视","type": 3,"playerType": "2","api": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/drpy2.min.js","ext": "https://raw.githubusercontent.com/kinkingshi/hezi/main/box/lib/爱看.js"},    
-    
           {
       "key": "Pandalivetv",
       "name": "🇰🇷韩国直播",
